@@ -6,7 +6,10 @@
 - wikipedia - https://en.wikipedia.org/wiki/Template
 - web templates is this zone = https://en.wikipedia.org/wiki/Web_template_system
 
-*As the sun rises above the dawn,the shadow silently vanishing behind the developer's desk; a few few hits on the keyboard echoed around the room, code was being tested, the dawn on the internet and html, and some hacker was concerned about having to make a lot of pages,and created the first templates, which could have looked like this....*
+First lets rwwind to the start of the internet in html
+-------------------------------------------------------------
+
+*The sun rises above the dawn, the shadow silently vanishing behind the developer's desk as a few stokes and hits on keys echoed around the room, code was being tested, printers were silent, a birth on the internet and html, and some hacker was concerned about having to make a lot of pages,and created the first templates, which could have looked like this....*
 
 ```html
 <!-- And mad idea for a template {me} -->
@@ -64,6 +67,25 @@ for( $guest_list as $guest){
 
 So depending where your coming from,  the idea here is to guide thought the concepts and how their implemented..
 
+First Template
+=================================================
+
+```
+-----------------------------------------------------
+Site Title
+-----------------------------------------------------
+Title
+========
+Contents
+blah,
+blah, blah blah
+
+
+----------------------------
+footer
+```
+
+
 Template Syntax.
 
 
@@ -71,4 +93,4 @@ For this exersize... we want a standard tempalte that does a few clever things..
 # current date in your locale, and UTC dates
 # Standard header and footer with terms..
 # An active navigation system that higlights a page in nav
-# 
+ 
